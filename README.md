@@ -1,17 +1,24 @@
-# Caesar Cipher Solver (Turkish Supported)
+<div align="center">
+  <h1>⚙️ Cesar Chiper</h1>
+  <p><i>Project Repository / Proje Deposu</i></p>
+</div>
 
-## English
-A Python script designed to encrypt and decrypt Caesar cipher texts. What makes this tool special is its native support for the Turkish alphabet, ensuring that Turkish characters are shifted correctly.
+<br>
 
-### Features
-- Encrypt and decrypt messages.
-- Full Turkish alphabet support.
+## 🇬🇧 English
+Welcome to the **Cesar Chiper** repository. This project contains scripts, assets, and source code crafted to solve specific problems or automate tasks.
+
+### ✨ Features
+- 🚀 High performance & clean code structure.
+- 🧩 Easy to integrate and modify.
+- 💻 Built for efficiency.
 
 ---
 
-## Türkçe
-Sezar şifrelemesiyle (Caesar Cipher) şifrelenmiş metinleri çözmek ve yeni metinler şifrelemek için tasarlanmış Python betiği. Bu aracın en önemli özelliği, Türk alfabesindeki harfleri desteklemesi ve doğru şekilde kaydırma (shift) yapabilmesidir.
+## 🇹🇷 Türkçe
+**Cesar Chiper** reposuna hoş geldiniz. Bu proje, belirli problemleri çözmek veya görevleri otomatikleştirmek amacıyla hazırlanmış betikler, kaynak dosyalar ve kodlar içerir.
 
-### Özellikler
-- Metin şifreleme ve şifre çözme.
-- Tam Türkçe alfabe desteği.
+### ✨ Özellikler
+- 🚀 Yüksek performanslı ve temiz kod yapısı.
+- 🧩 Kolayca entegre edilebilir ve değiştirilebilir.
+- 💻 Verimlilik odaklı geliştirilmiştir.
